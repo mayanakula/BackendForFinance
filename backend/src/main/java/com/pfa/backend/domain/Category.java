@@ -1,0 +1,13 @@
+package com.pfa.backend.domain;
+
+public enum Category {
+	FOOD_AND_DINING,
+	TRANSPORTATION,
+	SHOPPING,
+	BILLS_AND_UTILITIES,
+	ENTERTAINMENT,
+	HEALTHCARE,
+	INVESTMENTS,
+	OTHERS
+}
+
